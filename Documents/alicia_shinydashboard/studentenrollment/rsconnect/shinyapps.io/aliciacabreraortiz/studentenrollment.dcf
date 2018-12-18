@@ -1,0 +1,12 @@
+name: studentenrollment
+title: studentenrollment
+username:
+account: aliciacabreraortiz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 617631
+bundleId: 1765425
+url: https://aliciacabreraortiz.shinyapps.io/studentenrollment/
+when: 1544889725.60079
+asMultiple: FALSE
+asStatic: FALSE
