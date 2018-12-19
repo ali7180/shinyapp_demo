@@ -1,0 +1,12 @@
+name: ortiz_opioiod_dashboard
+title: ortiz_opioiod_dashboard
+username:
+account: aliciacabreraortiz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 620045
+bundleId: 1772276
+url: https://aliciacabreraortiz.shinyapps.io/ortiz_opioiod_dashboard/
+when: 1545185587.52729
+asMultiple: FALSE
+asStatic: FALSE
